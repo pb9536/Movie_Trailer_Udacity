@@ -23,10 +23,10 @@ Your default browser should launch a new tab displaying the movie trailer websit
 
 ## Extra Credit Description
 The following features were implemented to gain an extra credit from Udacity:
-•* Created an attribute called Rating to display the movie rating from IMDB(Internet movie database) in front end interface of HTML.
-•* Changed the background color for entire body for better look and feel.
-•* Changed the Title as "My Favorite Movie Trailers" .
+
+* Created an attribute called Rating to display the movie rating from IMDB(Internet movie database) in front end interface of HTML.
+* Changed the background color for entire body for better look and feel.
+* Changed the Title as "My Favorite Movie Trailers" .
 
 ## Miscellaneous
 This README document is based on a template suggested from Udacity forum post.
-# Movie_Trailer_Udacity
